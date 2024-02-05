@@ -48,6 +48,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=246p" />
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=246p" />
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj582" />
     
