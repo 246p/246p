@@ -1,6 +1,5 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kim%20Minjoon&fontSize=90" />	
-</div>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=200&section=header&text=Kim Minjoon&fontSize=90" />
+
 <div align=center>
 	<p>Platforms & Languages</p>
 </div>
@@ -17,9 +16,7 @@
 
 <div align=center>
 	<p>Tools</p>
-    
 </div>
-
 <div align="center">
     <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -43,18 +40,15 @@
     <a href="https://246p.github.io/">
 		<img src="https://img.shields.io/badge/Github.io-222222?style=for-the-badge&logo=github&logoColor=white" />
 	</a>
-    <!-- <a href="https://www.instagram.com/minjunkinn/">
+    <a href="https://www.instagram.com/minjunkinn/">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-	</a> -->
+	</a>
 	<br>
 </div>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=246p" />
-</div>
-<br>
-
-<div align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj582" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=246p" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj582" />
+    <img src="https://github-readme-stats.vercel.app/api?username=246p" /
 </div>
 <br>
