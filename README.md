@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=200&section=header&text=Kim Minjoon&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Kim Minjoon&fontSize=90" />
 
 <div align=center>
 	<p>Platforms & Languages</p>
@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white" />
     <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" />
+    <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     
 </div>
@@ -46,6 +47,9 @@
 	<br>
 </div>
 
+<div align=center>
+	<p>Contact</p>
+</div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=246p" />
     <br>
