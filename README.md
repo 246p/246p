@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Kim%20Minjoon&fontSize=90" />
-
+<div align=center>
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Kim%20Minjoon&fontSize=90" />
+</div>
 
 <div align=center>
 	<p>Platforms & Languages</p>
