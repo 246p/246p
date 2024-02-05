@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Kim Minjoon&fontSize=90" />
 
-[![github-profile](/kim-minjoon.svg](https://www.calligrapher.ai/)
 
 <div align=center>
 	<p>Platforms & Languages</p>
