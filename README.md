@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <br>
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=246p" />
 </div>
 <br>
@@ -29,7 +30,6 @@
     <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> -->
 
 </div>
-<br>
 <br>
 
 <div align=center>
@@ -50,7 +50,6 @@
 	</a>
 	<br>
 </div>
-<br>
 <br>
 
 <div align="center">
