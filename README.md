@@ -1,6 +1,7 @@
 <div align=center>
     <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Kim%20Minjoon&fontSize=45" />
 </div>
+<br>
 
 <div align=center>
 	<p>Platforms & Languages</p>
@@ -15,6 +16,7 @@
     
 </div>
 <br>
+<br>
 
 
 <div align=center>
@@ -28,7 +30,7 @@
 
 </div>
 <br>
-
+<br>
 
 <div align=center>
 	<p>Contact</p>
@@ -48,16 +50,16 @@
 	</a>
 	<br>
 </div>
+<br>
+<br>
 
-<div align=center>
-	<p>Contact</p>
-</div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=246p" />
     <br>
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=246p" />
     <br>
+    <br>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj582" />
-    
 </div>
 <br>
