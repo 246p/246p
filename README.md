@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" />
     <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=246p" />
 </div>
-<br>
 <br>
 
 
@@ -57,9 +57,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=246p" />
     <br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=246p" />
+    <!-- <br>
     <br>
-    <br>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj582" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj582" /> -->
 </div>
 <br>
